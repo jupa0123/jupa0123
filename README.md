@@ -1,2 +1,2 @@
 👋  I'm Jungwoo!
-I am a Support Engineer at Microsoft.
+I like working with technology :)
